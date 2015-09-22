@@ -1,6 +1,6 @@
 class Student{
 	
 	Public static void main(String []args){
-		System.out.println("vasan");
+		System.out.println("vasan come");
 	}
 }
